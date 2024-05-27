@@ -6,6 +6,10 @@ namespace ejercicio1
     {
         static void Main(string[] args)
         {
+
+            //Este comentario esta escrito para probar actualizacion de repositorio 
+
+
                 //Ejercicio 1
             int primero, segundo, resul;
             //Escribe en console
